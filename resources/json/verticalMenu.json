@@ -1,0 +1,158 @@
+{
+    "menu": [
+        {
+            "url": "javascript:void(0)",
+            "name": "1. პროდუქცია",
+            "i18n": "product",
+            "icon": "language",
+            "slug": "product",
+            "submenu": [
+                {
+                    "url": "product.index",
+                    "name": "კატალოგი",
+                    "i18n": "product",
+                    "icon": "language",
+                    "slug": "product"
+                },
+                 {
+                    "url": "category.index",
+                    "name": "კატეგორიები",
+                    "i18n": "category",
+                    "icon": "language",
+                    "slug": "category"
+                },
+
+                {
+                    "url": "color.index",
+                    "name": "ზომები",
+                    "i18n": "attributes",
+                    "icon": "language",
+                    "slug": "attribute"
+                },
+                {
+                    "url": "city.index",
+                    "name": "ქალაქები",
+                    "i18n": "slider",
+                    "icon": "language",
+                    "slug": "slider"
+                }
+
+            ]
+        },
+
+        {
+            "url": "order.index",
+            "name": "2. შეკვეთები",
+            "i18n": "order",
+            "icon": "g_translate",
+            "slug": "orders"
+        },
+
+        {
+            "url": "user.index",
+            "name": "3. მომხმარებლები",
+            "i18n": "user",
+            "icon": "user",
+            "slug": "user"
+    }
+    ,
+        {
+            "url": "javascript:void(0)",
+            "name": "4. ენის პარამეტრები",
+            "i18n": "user",
+            "icon": "brightness_low",
+            "slug": "user",
+            "submenu": [
+                {
+                    "url": "language.index",
+                    "name": "ენები",
+                    "i18n": "language",
+                    "icon": "language",
+                    "slug": "language"
+                },
+                {
+                    "url": "translation.index",
+                    "name": "თარგმნა",
+                    "i18n": "translation",
+                    "icon": "g_translate",
+                    "slug": "translation"
+                }
+            ]
+        },
+
+        {
+            "url": "javascript:void(0)",
+            "name": "5. გვერდების მართვა",
+            "i18n": "user",
+            "icon": "brightness_low",
+            "submenu": [
+                {
+                    "url": "gallery.index",
+            "name": "გალერეა",
+            "i18n": "change password",
+            "icon": "g_translate",
+            "slug": "change_password"
+                },
+                {
+                    "url": "page.index",
+            "name": "საიტის გვერდები",
+            "i18n": "page",
+            "icon": "language",
+            "slug": "page"
+                },
+                {
+                    "url": "setting.index",
+                    "name": "საკონტაქტო ინფორმაცია",
+                    "i18n": "setting",
+                    "icon": "language",
+                    "slug": "setting"
+                },
+                {
+                    "url": "slider.index",
+                    "name": "სლაიდერი",
+                    "i18n": "slider",
+                    "icon": "language",
+                    "slug": "slider"
+                }
+            ]
+        },
+
+        {
+            "url": "password.index",
+            "name": "6. პაროლის შეცვლა",
+            "i18n": "change password",
+            "icon": "g_translate",
+            "slug": "change_password"
+        }
+    ],
+    "_comment": [
+        {
+            "url": "certificate.index",
+            "name": "certificate",
+            "i18n": "certificate",
+            "icon": "language",
+            "slug": "certificate"
+        },
+        {
+            "url": "category.index",
+            "name": "category",
+            "i18n": "category",
+            "icon": "language",
+            "slug": "category"
+        },
+        {
+            "url": "product.index",
+            "name": "product",
+            "i18n": "product",
+            "icon": "language",
+            "slug": "product"
+        },
+        {
+            "url": "project.index",
+            "name": "project",
+            "i18n": "project",
+            "icon": "language",
+            "slug": "project"
+        }
+    ]
+}
